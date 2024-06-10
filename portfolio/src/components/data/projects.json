@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Resume Builder",
+      "imageSrc": "Projects/resume.png",
+      "skills": ["Python", "NLP", "Streamlit"],
+      "source": "https://github.com/ShanyaShrivastava/resume-analyzer"
+    },
+    {
+      "title": "Food-In-Out",
+      "imageSrc": "Projects/fio.png",
+      "skills": ["Next", "Sql", "Tailwind"],
+      "source": "https://github.com/ShanyaShrivastava/Fio--Food-in-and-out"
+    },
+    {
+      "title": "ChatApp",
+      "imageSrc": "Projects/chatapp.png",
+      "skills": ["React", "Express", "Node"],
+      "source": "https://www.github.com"
+    }
+  ]
